@@ -1,3 +1,3 @@
-module github.com/AdamNewman/handle_error
+module github.com/subconscious/handle_error
 
 go 1.19
